@@ -1,3 +1,8 @@
+# Projeto consumindo API de Filmes
+![api-filmes](https://user-images.githubusercontent.com/65515537/174920114-3aada15f-8016-4e5f-89de-9ce804c5644c.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
